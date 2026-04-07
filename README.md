@@ -65,6 +65,4 @@ I have a demonstrated ability to design scalable AI-powered solutions, collabora
 
 ## 😂 Tech Humor
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Funny/programming.gif" width="400" alt="Programming Meme">
-</p>
+![Coding Meme](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/funny.gif)
