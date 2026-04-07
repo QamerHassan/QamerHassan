@@ -1,39 +1,62 @@
-# 💫 About Me:
+# 👋 Hi, I'm Muhammad Qamer Hassan!
 
-- 🎓 **Degree in AI** with a strong academic background
-- 💼 **Extensive industry experience** in various AI domains
-- 🧠 **Expertise** in machine learning, deep learning, and computer vision
-- 🔬 Engaged in **cutting-edge research** across AI subfields, including novel architectures and optimization techniques.
-- 🌐 Devoted to **web integrations** using **Flask** and **Django**
-- 💻 Developed web applications incorporating **AI capabilities**
-- 🚀 Deployed AI solutions to solve **real-world challenges**
-- 📉 Stayed informed about the **latest industry trends**
-- 💡 Delivered **innovative and effective AI solutions** for diverse applications
+### 🚀 Full Stack Web Developer | AI Engineer
+**Lahore, Pakistan** | 📧 [qamerhassan445@gmail.com](mailto:qamerhassan445@gmail.com) | 📞 0303-4519490
 
 ---
 
-## 🌐 Socials:
+## 👨‍💻 About Me
+Experienced and results-driven **AI Engineer and Full Stack Developer** with a strong foundation in machine learning, deep learning, and intelligent systems. I am proficient in **Python, C++, neural networks**, and mobile application development using **Flutter**. 
 
-<p align="left">
-<a href="https://qamerhassan.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-<a href="https://facebook.com/qamerhassan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/qamerhassan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/qamerhassan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://reddit.com/u/qamerhassan" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-<a href="https://stackoverflow.com/users/qamerhassan" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-<a href="https://medium.com/@qamerhassan" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-</p>
+I have a demonstrated ability to design scalable AI-powered solutions, collaborate effectively in team environments, and actively contribute to open-source projects. I am passionate about solving real-world problems through data-driven and intelligent technologies.
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Technical Skills
 
+| Category | Skills |
+| --- | --- |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![.NET](https://img.shields.io/badge/.NET_8/10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **AI & Data** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=probot&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
+
+---
+
+## ⚙️ Projects
+
+- 🌌 **Nebula Conquest** – AI-powered real-time multiplayer strategy platform (.NET 10, SignalR, FastAPI, LLMs).
+- 🏨 **Astoria** – Enterprise smart hotel management platform with AI pricing and sentiment analysis (.NET 8, Next.js).
+- 📑 **Tax Management System** – Business-grade system with JWT, RBAC, PDF reports, Docker, PostgreSQL.
+- 🛒 **Smart Grocery App** – Full-stack grocery platform with AI-based product recommendations.
+- 🚗 **Ride App** – Realtime ride booking system with Next.js and Django REST Framework.
+- 📅 **Automated Timetable Scheduler** – Intelligent scheduling system for academic timetables.
+- 🤖 **Chatbot with Neo4j** – Python-based intelligent chatbot using graph database.
+- 🏎️ **Obstacle Avoiding Car** – Sensor-based autonomous system.
+- 🌿 **Automatic Plantation System** – Assembly-based automation project.
+
+---
+
+## 🎓 Education
+
+- 🎓 **BS in Artificial Intelligence** – University of Management and Technology, Lahore (2021 – 2025)
+- 🏫 **Intermediate (ICS)** – Punjab College, Lahore (2019 – 2021)
+- 📖 **Matriculation (Computer Science)** – The Educators, Lahore (2017 – 2019)
+
+---
+
+## ⚡ Soft Skills
+- 🧩 Adaptability
+- 🤝 Teamwork
+- 🗣️ Communication
+- 🤹 Multi-tasking
+
+---
+
+## 🌐 Connect with Me:
 <p align="left">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-<img src="https://img.shields.io/badge/Matplotlib-31363C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+<a href="https://linkedin.com/in/qamer-hassan-743a87226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/QamerHassan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:qamerhassan445@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
