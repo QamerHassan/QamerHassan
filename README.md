@@ -63,7 +63,8 @@ I have a demonstrated ability to design scalable AI-powered solutions, collabora
 
 ---
 
-## ?? Tech Humor
+## 😂 Tech Humor
 
-![AI vs Machine Learning](https://miro.medium.com/v2/resize:fit:1400/1*uS_8KkK3yY8qH_19H_3H8g.png)
-
+<p align="center">
+  <img src="https://i.pinimg.com/736x/21/cd/15/21cd15579976378e9f688949826a760c.jpg" width="400" alt="Tech Meme">
+</p>
