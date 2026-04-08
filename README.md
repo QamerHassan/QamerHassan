@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Muhammad Qamer Hassan!
+# ðŸ‘‹ Hi, I'm Muhammad Qamer Hassan!
 
-### 🚀 Full Stack Web Developer | AI Engineer
-**Lahore, Pakistan** | 📧 [qamerhassan445@gmail.com](mailto:qamerhassan445@gmail.com) | 📞 0303-4519490
+### ðŸš€ Full Stack Web Developer | AI Engineer
+**Lahore, Pakistan** | ðŸ“§ [qamerhassan445@gmail.com](mailto:qamerhassan445@gmail.com) | ðŸ“ž 0303-4519490
 
 ---
 
-## 👨‍💻 About Me
+## ðŸ‘¨â€ðŸ’» About Me
 Experienced and results-driven **AI Engineer and Full Stack Developer** with a strong foundation in machine learning, deep learning, and intelligent systems. I am proficient in **Python, C++, neural networks**, and mobile application development using **Flutter**. 
 
 I have a demonstrated ability to design scalable AI-powered solutions, collaborate effectively in team environments, and actively contribute to open-source projects. I am passionate about solving real-world problems through data-driven and intelligent technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## ðŸ› ï¸ Technical Skills
 
 | Category | Skills |
 | --- | --- |
@@ -24,37 +24,37 @@ I have a demonstrated ability to design scalable AI-powered solutions, collabora
 
 ---
 
-## ⚙️ Projects
+## âš™ï¸ Projects
 
-- 🌌 **Nebula Conquest** – AI-powered real-time multiplayer strategy platform (.NET 10, SignalR, FastAPI, LLMs).
-- 🏨 **Astoria** – Enterprise smart hotel management platform with AI pricing and sentiment analysis (.NET 8, Next.js).
-- 📑 **Tax Management System** – Business-grade system with JWT, RBAC, PDF reports, Docker, PostgreSQL.
-- 🛒 **Smart Grocery App** – Full-stack grocery platform with AI-based product recommendations.
-- 🚗 **Ride App** – Realtime ride booking system with Next.js and Django REST Framework.
-- 📅 **Automated Timetable Scheduler** – Intelligent scheduling system for academic timetables.
-- 🤖 **Chatbot with Neo4j** – Python-based intelligent chatbot using graph database.
-- 🏎️ **Obstacle Avoiding Car** – Sensor-based autonomous system.
-- 🌿 **Automatic Plantation System** – Assembly-based automation project.
-
----
-
-## 🎓 Education
-
-- 🎓 **BS in Artificial Intelligence** – University of Management and Technology, Lahore (2021 – 2025)
-- 🏫 **Intermediate (ICS)** – Punjab College, Lahore (2019 – 2021)
-- 📖 **Matriculation (Computer Science)** – The Educators, Lahore (2017 – 2019)
+- ðŸŒŒ **Nebula Conquest** â€“ AI-powered real-time multiplayer strategy platform (.NET 10, SignalR, FastAPI, LLMs).
+- ðŸ¨ **Astoria** â€“ Enterprise smart hotel management platform with AI pricing and sentiment analysis (.NET 8, Next.js).
+- ðŸ“‘ **Tax Management System** â€“ Business-grade system with JWT, RBAC, PDF reports, Docker, PostgreSQL.
+- ðŸ›’ **Smart Grocery App** â€“ Full-stack grocery platform with AI-based product recommendations.
+- ðŸš— **Ride App** â€“ Realtime ride booking system with Next.js and Django REST Framework.
+- ðŸ“… **Automated Timetable Scheduler** â€“ Intelligent scheduling system for academic timetables.
+- ðŸ¤– **Chatbot with Neo4j** â€“ Python-based intelligent chatbot using graph database.
+- ðŸŽï¸ **Obstacle Avoiding Car** â€“ Sensor-based autonomous system.
+- ðŸŒ¿ **Automatic Plantation System** â€“ Assembly-based automation project.
 
 ---
 
-## ⚡ Soft Skills
-- 🧩 Adaptability
-- 🤝 Teamwork
-- 🗣️ Communication
-- 🤹 Multi-tasking
+## ðŸŽ“ Education
+
+- ðŸŽ“ **BS in Artificial Intelligence** â€“ University of Management and Technology, Lahore (2021 â€“ 2025)
+- ðŸ« **Intermediate (ICS)** â€“ Punjab College, Lahore (2019 â€“ 2021)
+- ðŸ“– **Matriculation (Computer Science)** â€“ The Educators, Lahore (2017 â€“ 2019)
 
 ---
 
-## 🌐 Connect with Me:
+## âš¡ Soft Skills
+- ðŸ§© Adaptability
+- ðŸ¤ Teamwork
+- ðŸ—£ï¸ Communication
+- ðŸ¤¹ Multi-tasking
+
+---
+
+## ðŸŒ Connect with Me:
 <p align="left">
 <a href="https://linkedin.com/in/qamer-hassan-743a87226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/QamerHassan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -63,6 +63,6 @@ I have a demonstrated ability to design scalable AI-powered solutions, collabora
 
 ---
 
-## 😂 Tech Humor
+## ðŸ˜‚ Tech Humor
 
-![Coding Meme](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/funny.gif)
+![Tech Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxMHFxNnB4eHd6Z3Z4eHd6Z3Z4eHd6Z3Z4eHd6Z3Z4Z3Z4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf8PZT7F7df1w4A/giphy.gif)
