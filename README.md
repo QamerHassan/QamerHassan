@@ -9,7 +9,7 @@
 ### 🚀 About Me
 I am a passionate **AI Engineer** and **Full Stack Developer** dedicated to building intelligent solutions that bridge the gap between complex algorithms and user-centric applications. My expertise lies in high-performance computing, machine learning, and scalable web architectures.
 
-- 🔭 **Current Focus**: Architecting the "America Needs Nurses" (ANN) platform and advancing AI workflow automation.
+- 🔭 **Current Focus**: Make the full stack web applications and advancing AI workflow automation.
 - 🌱 **Skills**: Machine Learning, Deep Learning, RESTful APIs, and UI/UX design architectures.
 - ⚡ **Interests**: Generative AI, Computer Vision, and the intersection of healthcare and technology.
 - 💬 **Ask me about**: Python, React, Next.js, and scaling neural networks.
