@@ -73,6 +73,7 @@ I am a passionate **AI Engineer** and **Full Stack Developer** dedicated to buil
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxMHFxNnB4eHd6Z3Z4eHd6Z3Z4eHd6Z3Z4eHd6Z3Z4Z3Z4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26uf8PZT7F7df1w4A/giphy.gif" alt="Programmer Meme" width="400px" />
 </p>
+<img width="702" height="395" alt="image" src="https://github.com/user-attachments/assets/947c7b77-29e7-4b36-b679-c665dbb908d3" />
 
 <p align="center">
   <b>Built with ❤️ by Muhammad Qamer Hassan</b>
